@@ -3,10 +3,6 @@
 <h1 align="center">Rick & Morty Memory Game</h1>
 
 <div align="center">
- 
-</div>
-
-<div align="center">
   <h3>
     <a href="https://{your-demo-link.your-domain}">
       Demo
