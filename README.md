@@ -7,14 +7,7 @@
     <a href="https://{your-demo-link.your-domain}">
       Demo
     </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
-      Solution
-    </a>
-    <span> | </span>
-    <a href="https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb">
-      Challenge
-    </a>
+  
   </h3>
 </div>
 
@@ -70,4 +63,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - Website [your-website.com](https://{your-web-site-link})
 - GitHub [@antuansabe](https://github.com/antuansabe)
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+
